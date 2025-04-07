@@ -2,7 +2,6 @@
 
 ## Hi there, [Abdallah](https://Abdallah-hilal.github.io/) here 👋🏼🧑🏽‍🚀
 
-[![Website Badge](https://img.shields.io/badge/-Website-0078FF?style=flat&logo=Google%20Chrome&logoColor=white)](https://abdoomohamedd.github.io/ "Visit my Website")
 [![Gmail Badge](https://img.shields.io/badge/-abdulluh.helal@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:abdulluh.helal@gmail.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abdallah-hilal/ "Connect on LinkedIn")
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/abdallahhelal "Follow on Kaggle")
@@ -10,6 +9,7 @@
 [![HackerRank Badge](https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/Abdallah_Helal "View my HackerRank Profile")
 
 <!-- [![Upwork Badge](https://img.shields.io/badge/-Upwork-6fda44?style=flat&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01a2420169fb60ba5a "Hire me on Upwork") -->
+<!-- [![Website Badge](https://img.shields.io/badge/-Website-0078FF?style=flat&logo=Google%20Chrome&logoColor=white)](https://abdoomohamedd.github.io/ "Visit my Website") -->
 
 
 
