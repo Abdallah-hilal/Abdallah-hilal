@@ -29,24 +29,6 @@ Currently, I am expanding my skills in **Azure** ☁️ and **prompt engineering
   ----
 </details>
 
-## ⚡ Technologies
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=Matplotlib)
-![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square&logo=Seaborn)
-![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-8B008B?style=flat-square&logo=BeautifulSoup)
-![Scrapy](https://img.shields.io/badge/-Scrapy-darkgreen?style=flat-square&logo=Scrapy)
-![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-
 ## ⚡ Tech Stack / Technologies I Use
 
 ### 🐍 Programming Languages
